@@ -1,0 +1,16 @@
+a {
+    margin-left: 50px;
+    border-radius : 4px;
+    font-weight: bold;
+    font-size: 125%;
+    height: 35px;
+}
+
+a:hover {
+    background-color: #BC0126;
+}
+
+.navbar {
+    background-color: white;
+    color: white;
+}
